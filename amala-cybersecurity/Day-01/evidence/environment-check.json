@@ -16,7 +16,7 @@
     "available": true,
     "path": "C:\\Users\\SARANYA\\AppData\\Local\\Programs\\Ollama\\ollama.EXE",
     "exit_code": 0,
-    "output": "NAME             ID              SIZE      MODIFIED     \nqwen3:1.7b       8f68893c685c    1.4 GB    4 days ago      \ngemma3:1b        8648f39daa8f    815 MB    2 months ago    \nqwen3:4b         359d7dd4bcda    2.5 GB    4 months ago    \nphi3:latest      4f2222927938    2.2 GB    7 months ago    \nllama3:latest    365c0bd3c000    4.7 GB    7 months ago"
+    "output": "NAME             ID              SIZE      MODIFIED     \nqwen3:1.7b       8f68893c685c    1.4 GB    5 days ago      \ngemma3:1b        8648f39daa8f    815 MB    2 months ago    \nqwen3:4b         359d7dd4bcda    2.5 GB    4 months ago    \nphi3:latest      4f2222927938    2.2 GB    7 months ago    \nllama3:latest    365c0bd3c000    4.7 GB    7 months ago"
   },
   "curl": {
     "command": "curl",
