@@ -16,3 +16,11 @@ python -m unittest discover -s .\tests -v
 - Evidence is saved as `evidence/environment-check.json`.
 - Tests pass.
 - Network testing remains explicitly marked NOT RUN.
+## Additional verification run
+
+- Date: 2026-10-21
+- Environment verifier: PASS
+- Unit tests: 1 passed
+- Network testing: NOT RUN
+- Private data access: NOT RUN
+
