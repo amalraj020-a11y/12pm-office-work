@@ -24,3 +24,10 @@ python -m unittest discover -s .\tests -v
 - Network testing: NOT RUN
 - Private data access: NOT RUN
 
+
+## Additional curl verification
+
+- Command: curl.exe --head --location --max-time 15 https://example.com`r
+- Result: HTTP 200 OK; exit code 0
+- Scope: benign header-only request to example.com; no security target was scanned.
+
