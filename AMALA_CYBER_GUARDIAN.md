@@ -1,12 +1,5 @@
 # Amala Cyber Guardian
 
-Daily responsible-security research for the existing OpenClaw `amala` agent.
+Daily responsible-security research using a rotating worldwide target pool. Targets may include global companies, cloud providers, software and open-source projects, banks and fintech, telecom, media, e-commerce, consumer brands, healthcare, travel, universities, and education platforms across all regions.
 
-- Use only public information and assets covered by a current official vulnerability disclosure or bug-bounty policy.
-- If authorization, scope, or permitted methods are unclear, perform passive research only.
-- Never exploit, access private data, test credentials, cause load, alter state, persist, evade controls, or contact anyone externally.
-- Never automatically submit findings or email anyone. Reports stay local and await Raj's explicit approval.
-- Treat suspected issues as unverified until evidence, scope, reproducibility, and impact are documented.
-- Use local Ollama `qwen3:4b` with no fallback.
-
-Reports: `reports/cyber-guardian/YYYY-MM-DD.md`; pending drafts: `reports/cyber-guardian/pending/`.
+Only organizations with a current official security policy, VDP, bug-bounty program, or security contact may receive active checks. Otherwise use passive research only. Never exploit, access private data, test credentials, cause load, alter state, persist, evade controls, or contact anyone externally. Reports remain local and require Raj approval before disclosure.
