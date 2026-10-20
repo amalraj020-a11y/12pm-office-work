@@ -2,4 +2,11 @@
 
 A 30-day sequence of practical, locally tested cybersecurity projects using free tools and safe training environments.
 
-Day 1 is the current project. No day is complete without actual test evidence.
+## Day-by-day status
+
+- [Day 1 — Safe Local Cybersecurity Lab](Day-01/README.md) — **PASS**
+- [Day 2 — Python Security Toolkit](Day-02/README.md) — **NOT STARTED**
+
+The detailed source and test files for Day 1 remain under `Day-01-Lab-Setup/`.
+
+No project is marked complete without actual test evidence. Unauthorized third-party testing and automatic disclosure are prohibited.
