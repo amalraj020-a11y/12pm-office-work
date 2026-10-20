@@ -1,0 +1,17 @@
+{
+  "project": "Amala Cybersecurity Portfolio",
+  "current_day": 2,
+  "days": {
+    "1": {
+      "name": "Verify the development environment and create a safe local cybersecurity lab",
+      "status": "PASS",
+      "files_created": ["Day-01-Lab-Setup/README.md", "Day-01-Lab-Setup/src/verify_environment.py", "Day-01-Lab-Setup/tests/test_environment.py", "Day-01-Lab-Setup/evidence/environment-check.json"],
+      "commands": ["python .\\src\\verify_environment.py", "python -m unittest discover -s .\\tests -v"],
+      "test_results": ["PASS: verifier completed", "PASS: 1 unit test passed", "PASS: Python 3.13.14, Git 2.55.0, curl 8.21.0, Ollama and qwen3:4b detected", "NOT RUN: network testing and scans"],
+      "errors_and_fixes": ["FAIL: incorrect project-root path and evidence path", "FIXED: resolved project root from src via parents[2] and evidence via Day-01 root", "PASS: rerun successful"],
+      "remaining_work": "None for Day 1",
+      "next_project": "Day 2 — Python Security Toolkit"
+    },
+    "2": {"name": "Build reusable Python security utilities and input-validation functions", "status": "NOT STARTED"}
+  }
+}

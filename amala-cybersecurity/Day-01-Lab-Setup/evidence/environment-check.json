@@ -1,0 +1,31 @@
+{
+  "python": {
+    "version": "3.13.14",
+    "executable": "C:\\Users\\SARANYA\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\python.exe"
+  },
+  "platform": "Windows-11-10.0.26300-SP0",
+  "git": {
+    "command": "git",
+    "available": true,
+    "path": "C:\\Git\\cmd\\git.EXE",
+    "exit_code": 0,
+    "output": "git version 2.55.0.windows.3"
+  },
+  "ollama": {
+    "command": "ollama",
+    "available": true,
+    "path": "C:\\Users\\SARANYA\\AppData\\Local\\Programs\\Ollama\\ollama.EXE",
+    "exit_code": 0,
+    "output": "NAME             ID              SIZE      MODIFIED     \nqwen3:1.7b       8f68893c685c    1.4 GB    4 days ago      \ngemma3:1b        8648f39daa8f    815 MB    2 months ago    \nqwen3:4b         359d7dd4bcda    2.5 GB    4 months ago    \nphi3:latest      4f2222927938    2.2 GB    7 months ago    \nllama3:latest    365c0bd3c000    4.7 GB    7 months ago"
+  },
+  "curl": {
+    "command": "curl",
+    "available": true,
+    "path": "C:\\WINDOWS\\system32\\curl.EXE",
+    "exit_code": 0,
+    "output": "curl 8.21.0 (Windows) libcurl/8.21.0 Schannel zlib/1.3.2 WinIDN WinLDAP\nRelease-Date: 2026-06-24\nProtocols: dict file ftp ftps gopher gophers http https imap imaps ipfs ipns ldap ldaps mqtt mqtts pop3 pop3s smtp smtps telnet tftp ws wss\nFeatures: alt-svc AsynchDNS HSTS HTTPS-proxy IDN IPv6 Kerberos Largefile libz SPNEGO SSL SSPI threadsafe Unicode UnixSockets"
+  },
+  "portfolio_root": "C:\\Users\\SARANYA\\.openclaw\\workspace\\amala-cybersecurity",
+  "safe_lab_directories": true,
+  "network_testing": "NOT RUN: Day 1 performs no network requests or scans"
+}
